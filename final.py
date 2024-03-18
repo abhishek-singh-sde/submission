@@ -1,5 +1,5 @@
 #I have written different functions for handling different tasks to ensure modularity
-#These functions can also be wrapped in an API with and the exact process flow of function 
+#These functions can also be wrapped in an API and the exact process flow of function 
 #calls can be tweaked as per requirement
 
 #Importing the libraries
